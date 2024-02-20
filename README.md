@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matt, 2 years ago I was a truck driver, driving up and down the country 50 tons of freight and thinking that I had the greatest office in the world. 
+My name is Matt, 2 years ago I was a truck driver, driving up and down the country everyday with 50 tons of freight on board and thinking that I had the greatest office in the world. 
 Then I got sick, all of a sudden driving a truck and trailer was no longer an option.
 Rather than wallow in the unfairness of it all and with the support of my family I am switching careers. Software Development has always been a passion for me
 and now I have the chance I am going to grab it with both hands. 
