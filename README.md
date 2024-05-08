@@ -16,17 +16,14 @@ My ultimate goal is to have a career working in the cybersecurity field, helping
 
 👯 I’m looking to collaborate on any secure software applications out there
 
-🌱 I’m currently learning C++ 
+🌱 I’m currently learning Java
 
 🔭 I’m currently working on my version of the game Snake, I am going to take it to a whole new level
 
 💬 My blog: https://mrmatttaylor.blogspot.com/ 
 
 ⚡ Fun fact: 
-Did you know the population of the Earth is made up of more bacteria than human cells? 
-It's estimated that for every human cell in your body, there are around 10 bacterial cells! 
-These tiny roommates play a crucial role in our health, digestion, and immune system. 
-So next time you wash your hands, remember you're not just getting rid of dirt, but greeting trillions of microscopic neighbors!
+Did you know that Earth is the only planet in our solar system not named after a mythical god or goddess? Instead, its name comes from Old English and Germanic words meaning "ground" or "soil." So while other planets like Mercury, Venus, Mars, Jupiter, Saturn, Uranus, and Neptune have names derived from Roman or Greek mythology, Earth's name reflects its physical characteristics.
 <!--
 **MrMatt1010/MrMatt1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
