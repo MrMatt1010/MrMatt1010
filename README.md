@@ -16,7 +16,7 @@ My ultimate goal is to have a career working in the cybersecurity field, helping
 
 👯 I’m looking to collaborate on any secure software applications out there
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java, Python
 
 🔭 I’m currently working on my version of the game Snake, I am going to take it to a whole new level
 
